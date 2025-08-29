@@ -1,1 +1,1 @@
-https://praveen8722.github.io/8byte-Assessment/
+Live :- https://stately-scone-6b5b83.netlify.app/
